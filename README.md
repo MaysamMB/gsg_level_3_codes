@@ -1,5 +1,5 @@
 # gsg_level_3_codes
-activity_schedules using recursion
+**activity_schedules using recursion**
 
 *Problem Statement:*
 
@@ -36,4 +36,4 @@ COUNT: 6
   - This is a recursion problem.
   - At each day, try the 3 activities but skip the one equal to the previous day's choice.
 
-"*Maysam Baradiya*"
+"**Maysam Baradiya**"
