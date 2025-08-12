@@ -24,12 +24,53 @@ n = 2
 *Valid schedules:*
 
 Football Running
+
 Football Swimming
+
 Running Football
+
 Running Swimming
+
 Swimming Football
+
 Swimming Running
+
 COUNT: 6
+
+*Example 2:*
+
+*Input: *
+
+n = 3
+
+*Output: *
+
+Swimming Running Swimming
+
+Swimming Running Football
+
+Swimming Football Swimming
+
+Swimming Football Running
+
+Running Swimming Running
+
+Running Swimming Football
+
+Running Football Swimming
+
+Running Football Running
+
+Football Swimming Running
+
+Football Swimming Football
+
+Football Running Swimming
+
+Football Running Football
+
+
+Count: 12
 
 *Hints:*
 
