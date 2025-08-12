@@ -15,7 +15,7 @@
   - After listing all schedules, print a final line: COUNT: X where X is the total number of schedules
   generated.
 
-*Example:*
+**Example:**
 
 *Input:*
 
@@ -37,13 +37,13 @@ Swimming Running
 
 COUNT: 6
 
-*Example 2:*
+**Example 2:**
 
-*Input: *
+*Input:*
 
 n = 3
 
-*Output: *
+*Output:*
 
 Swimming Running Swimming
 
