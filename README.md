@@ -37,5 +37,6 @@ COUNT: 6
   - At each day, try the 3 activities but skip the one equal to the previous day's choice.
 
 
-"**Maysam Baradiya**"
-ID: **MaysamMB**
+**Maysam Baradiya**
+
+**ID:** **MaysamMB**
