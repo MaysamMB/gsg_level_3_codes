@@ -17,60 +17,60 @@
 
 **Example:**
 
-*Input:*
+ *Input:*
 
-n = 2
+  n = 2
 
-*Valid schedules:*
+ *Valid schedules:*
 
-Football Running
-
-Football Swimming
-
-Running Football
-
-Running Swimming
-
-Swimming Football
-
-Swimming Running
-
-COUNT: 6
+  Football Running
+  
+  Football Swimming
+  
+  Running Football
+  
+  Running Swimming
+  
+  Swimming Football
+  
+  Swimming Running
+  
+  COUNT: 6
 
 **Example 2:**
 
-*Input:*
+ *Input:*
 
-n = 3
+  n = 3
 
-*Output:*
+ *Output:*
 
-Swimming Running Swimming
-
-Swimming Running Football
-
-Swimming Football Swimming
-
-Swimming Football Running
-
-Running Swimming Running
-
-Running Swimming Football
-
-Running Football Swimming
-
-Running Football Running
-
-Football Swimming Running
-
-Football Swimming Football
-
-Football Running Swimming
-
-Football Running Football
-
-
-Count: 12
+  Swimming Running Swimming
+  
+  Swimming Running Football
+  
+  Swimming Football Swimming
+  
+  Swimming Football Running
+  
+  Running Swimming Running
+  
+  Running Swimming Football
+  
+  Running Football Swimming
+  
+  Running Football Running
+  
+  Football Swimming Running
+  
+  Football Swimming Football
+  
+  Football Running Swimming
+  
+  Football Running Football
+  
+  
+  Count: 12
 
 *Hints:*
 
